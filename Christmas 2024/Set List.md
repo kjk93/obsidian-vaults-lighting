@@ -1,0 +1,7 @@
+1. [[Angels (Eve Eve Overture)]]
+2. [[Hark The Harald Eagle & Child]]
+3. [[The Joy - Joy To The World]]
+4. [[Joyful Joyful]]
+5. [[Oh Come - His Name Shall Be]]
+6. [[Oh Holy Night - Kings]]
+7. [[Linus and Lucy]]

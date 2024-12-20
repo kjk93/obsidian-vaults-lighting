@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "3d82f9df8bb74e94",
+    "type": "split",
+    "children": [
+      {
+        "id": "da0f45165c386314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8766f591d29e9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Christmas 2024/Set List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set List"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b389320778760b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03cef893dd4b8466",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1b9373d030b5b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "75eebd2ae1131dc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b519c489d189930",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "289ca08971c12d62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8b3311729f1d5cb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f346a86681c5c54b",
+    "type": "split",
+    "children": [
+      {
+        "id": "89b1800bf52fd288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22170425028290a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Christmas 2024/Set List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Set List"
+            }
+          },
+          {
+            "id": "9c0554642812617d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Christmas 2024/Set List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Set List"
+            }
+          },
+          {
+            "id": "e9df895c1a24a7eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "096d591d1a61649f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Christmas 2024/Set List.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Set List"
+            }
+          },
+          {
+            "id": "9d37d8ac2dd7b3ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a99fff60fa4faa61",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3b519c489d189930",
+  "lastOpenFiles": [
+    "Christmas 2024/Set List.md",
+    "Joyful Joyfull.md",
+    "Welcome.md",
+    "Christmas 2024"
+  ]
+}
