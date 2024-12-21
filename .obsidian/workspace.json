@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Come - His Name Shall Be.md",
+                "file": "O Holy Night - Kings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O Come - His Name Shall Be"
+              "title": "O Holy Night - Kings"
             }
           }
         ]
       },
       {
-        "id": "7942537542cb2fa9",
+        "id": "e5a239770bae5529",
         "type": "tabs",
         "children": [
           {
-            "id": "725d7a336210a4a5",
+            "id": "59acd174860c464e",
             "type": "leaf",
             "state": {
               "type": "mx-url-audio",
               "state": {
-                "source": "file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Come%20%20-%20His%20Name%20Shall%20Be%20-%205-D.mp3"
+                "source": "file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a"
               },
               "icon": "file-audio",
-              "title": "O Come  - His Name Shall Be - 5-D"
+              "title": "O Holy Night - Kings - D"
             }
           }
         ]
@@ -158,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O Come - His Name Shall Be.md"
+                "file": "O Holy Night - Kings.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of O Come - His Name Shall Be"
+              "title": "Outline of O Holy Night - Kings"
             }
           },
           {
@@ -212,11 +212,11 @@
   },
   "active": "a99fff60fa4faa61",
   "lastOpenFiles": [
+    "O Holy Night - Kings.md",
     "O Come - His Name Shall Be.md",
     "Angels (Eve Eve Overture).md",
     "The Joy - Joy To The World.md",
     "Hark the Harald Eagle & Child.md",
-    "O Holy Night - Kings.md",
     "Set List.md",
     "Joyful Joyful.md",
     "Hark The Harald Eagle & Child.md",
