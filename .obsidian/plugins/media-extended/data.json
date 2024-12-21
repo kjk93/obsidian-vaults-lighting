@@ -17,7 +17,7 @@
   "screenshotTemplate": "\n- !{{SCREENSHOT}} {{TIMESTAMP}} ",
   "screenshotEmbedTemplate": "{{TITLE}}{{DURATION}}|50",
   "insertBefore": false,
-  "timestampOffset": -2,
+  "timestampOffset": 1,
   "biliDefaultQuality": 80,
   "screenshotFormat": "image/webp",
   "enableSubtitle": false,
