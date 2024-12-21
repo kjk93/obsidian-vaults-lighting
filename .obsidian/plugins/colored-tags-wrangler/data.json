@@ -140,6 +140,34 @@
           "b": 158
         },
         "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "whiteWarm",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 251,
+          "g": 234,
+          "b": 198
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "whiteCool",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "luminance_offset": 0.15
       }
     ],
     "EnableMultipleTags": true,
