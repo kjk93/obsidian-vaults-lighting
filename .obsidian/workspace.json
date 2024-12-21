@@ -4,39 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ec70e59b751c1fc8",
+        "id": "4276d86c420f3c51",
         "type": "tabs",
         "children": [
           {
-            "id": "8efa817c70fbcd4f",
+            "id": "fdd3757aa1fcd79d",
             "type": "leaf",
             "state": {
               "type": "mx-url-audio",
               "state": {
-                "source": "file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Angels%20(Eve%20Eve%20Overture)-F.mp3"
+                "source": "file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Come%20%20-%20His%20Name%20Shall%20Be%20-%205-D.mp3"
               },
               "icon": "file-audio",
-              "title": "Angels (Eve Eve Overture)-F"
+              "title": "O Come  - His Name Shall Be - 5-D"
             }
           }
         ]
       },
       {
-        "id": "769dc061587431bc",
+        "id": "6af826d565b5e16d",
         "type": "tabs",
         "children": [
           {
-            "id": "a97ada43c9755011",
+            "id": "401e8e4498de7956",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angels (Eve Eve Overture).md",
+                "file": "O Come - His Name Shall Be.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angels (Eve Eve Overture)"
+              "title": "O Come - His Name Shall Be"
             }
           }
         ]
@@ -157,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angels (Eve Eve Overture).md"
+                "file": "O Come - His Name Shall Be.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Angels (Eve Eve Overture)"
+              "title": "Outline of O Come - His Name Shall Be"
             }
           },
           {
@@ -209,10 +209,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a99fff60fa4faa61",
+  "active": "401e8e4498de7956",
   "lastOpenFiles": [
-    "Angels (Eve Eve Overture).md",
+    "O Come - His Name Shall Be.md",
     "Set List.md",
+    "Angels (Eve Eve Overture).md",
     "Joyful Joyful.md",
     "The Joy - Joy To The World.md",
     "Hark the Harald Eagle & Child.md",
