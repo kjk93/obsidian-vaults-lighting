@@ -3,5 +3,5 @@
 3. [[The Joy - Joy To The World]]
 4. [[Joyful Joyful]]
 5. [[O Come - His Name Shall Be]]
-6. [[Oh Holy Night - Kings]]
+6. [[O Holy Night - Kings]]
 7. [[Linus and Lucy]]
