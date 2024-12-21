@@ -2,7 +2,7 @@
 audio: file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/The%20Joy_%20Joy%20To%20The%20World-B.mp3
 tags:
   - primaryPink
-  - primaryLightBlue
+  - secondaryLightBlue
 ---
 
 1. Fade in walls, backs, maybe fronts #frontMoversHouse #stageMoversFrontLight #pink #lightBlue  [00:01](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/The%20Joy_%20Joy%20To%20The%20World-B.mp3#t=1.67) 
