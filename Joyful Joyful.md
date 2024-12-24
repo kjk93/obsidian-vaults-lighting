@@ -10,7 +10,7 @@ tags:
 3. [00:17](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Joyful%20Joyful%20(FINAL)-B.mp3#t=17.84) #lightBlue  and #whiteCool walls #lightBlue and #whiteCool everything
 4. [00:25](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Joyful%20Joyful%20(FINAL)-B.mp3#t=25.69) change #whiteCool  to #yellow 
 5. [00:36](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Joyful%20Joyful%20(FINAL)-B.mp3#t=36.80) small fade on all lights including xmas
-6. [00:45](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Joyful%20Joyful%20(FINAL)-B.mp3#t=45.12) Restore 3 but with all lights
+6. [00:45](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Joyful%20Joyful%20(FINAL)-B.mp3#t=45.12) Restore 3 but with all lights Fix Movers
 7. [01:18](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Joyful%20Joyful%20(FINAL)-B.mp3#t=01:18.08) Restore 5
 8. [01:33](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Joyful%20Joyful%20(FINAL)-B.mp3#t=01:33.47) #blue backs #stageMoversHouse #blue xmas lights #blue walls night sky feeling
 9. [01:49](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/Joyful%20Joyful%20(FINAL)-B.mp3#t=01:49.78) #blinders50 #frontMoversStage #whiteCool 

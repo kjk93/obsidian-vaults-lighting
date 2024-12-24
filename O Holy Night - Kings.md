@@ -13,6 +13,8 @@ audio: file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%
 9. [02:39](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a#t=02:39.05) Chase xmas lights and house lights add #lightBlue  from movers #stageMoversStage #frontMoversStage 
 10. [02:55](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a#t=02:55.85) Move movers to house change to #yellow  walls and backs become #teal 
 11. [03:11](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a#t=03:11.93) #blinders50 Change colors to #teal and #purple 
-12. [03:26](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a#t=03:26.84) Chase xmas lights faster #blinders100 change teal to #yellow
+12. [03:26](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a#t=03:26.84) Chase xmas lights faster #blinders100 change teal to #yellow 
 13. [03:41](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a#t=03:41.41) Just xmas light and (house? ) chase with fast chasing walls #whiteWarm 
-14. [03:45](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a#t=03:45.14) BO
+	1. **Light On Piano**
+
+14. [03:45](file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a#t=03:45.14) After beat

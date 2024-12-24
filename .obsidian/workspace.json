@@ -8,7 +8,77 @@
         "type": "tabs",
         "children": [
           {
+            "id": "32931e25326c7be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angels (Eve Eve Overture).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Angels (Eve Eve Overture)"
+            }
+          },
+          {
             "id": "b42008d1f31b63a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hark the Harald Eagle & Child.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hark the Harald Eagle & Child"
+            }
+          },
+          {
+            "id": "af2ee352e7baed78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Joy - Joy To The World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Joy - Joy To The World"
+            }
+          },
+          {
+            "id": "ac38dc2a753ea3d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Joyful Joyful.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Joyful Joyful"
+            }
+          },
+          {
+            "id": "3c736631a50b96d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O Come - His Name Shall Be.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O Come - His Name Shall Be"
+            }
+          },
+          {
+            "id": "d12f34f03eb47f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,25 +91,8 @@
               "title": "O Holy Night - Kings"
             }
           }
-        ]
-      },
-      {
-        "id": "e5a239770bae5529",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "59acd174860c464e",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url-audio",
-              "state": {
-                "source": "file:///C:/Users/Kyle_Laptop/Music/Christmas%202024/O%20Holy%20Night%20-%20Kings%20-%20D.m4a"
-              },
-              "icon": "file-audio",
-              "title": "O Holy Night - Kings - D"
-            }
-          }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -91,8 +144,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,15 +262,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a99fff60fa4faa61",
+  "active": "d12f34f03eb47f0d",
   "lastOpenFiles": [
-    "O Holy Night - Kings.md",
     "O Come - His Name Shall Be.md",
-    "Angels (Eve Eve Overture).md",
+    "Joyful Joyful.md",
     "The Joy - Joy To The World.md",
     "Hark the Harald Eagle & Child.md",
+    "Angels (Eve Eve Overture).md",
+    "O Holy Night - Kings.md",
     "Set List.md",
-    "Joyful Joyful.md",
     "Hark The Harald Eagle & Child.md",
     "Media",
     "New folder",
