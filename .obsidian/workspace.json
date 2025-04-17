@@ -8,91 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32931e25326c7be6",
+            "id": "0ab53d2ec54b3020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angels (Eve Eve Overture).md",
+                "file": "Easter 2025/All Things Our God Paid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angels (Eve Eve Overture)"
+              "title": "All Things Our God Paid"
             }
           },
           {
-            "id": "b42008d1f31b63a9",
+            "id": "9b17d69c8293fe8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hark the Harald Eagle & Child.md",
+                "file": "Easter 2025/Trust In God Medley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hark the Harald Eagle & Child"
-            }
-          },
-          {
-            "id": "af2ee352e7baed78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Joy - Joy To The World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Joy - Joy To The World"
-            }
-          },
-          {
-            "id": "ac38dc2a753ea3d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Joyful Joyful.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Joyful Joyful"
-            }
-          },
-          {
-            "id": "3c736631a50b96d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Come - His Name Shall Be.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O Come - His Name Shall Be"
-            }
-          },
-          {
-            "id": "d12f34f03eb47f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O Holy Night - Kings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O Holy Night - Kings"
+              "title": "Trust In God Medley"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -236,16 +181,29 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "768d48f05fa2541c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Easter 2025/Trust In God Medley.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Trust In God Medley"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,15 +220,23 @@
       "media-extended:Open media": false
     }
   },
-  "active": "d12f34f03eb47f0d",
+  "active": "9b17d69c8293fe8e",
   "lastOpenFiles": [
-    "O Come - His Name Shall Be.md",
-    "Joyful Joyful.md",
-    "The Joy - Joy To The World.md",
-    "Hark the Harald Eagle & Child.md",
-    "Angels (Eve Eve Overture).md",
-    "O Holy Night - Kings.md",
-    "Set List.md",
+    "Easter 2025/All Things Our God Paid.md",
+    "Easter 2025/All_Things_Our_God_Paid.m4a",
+    "Easter 2025/Trust In God Medley.md",
+    "Easter 2025/Trust_In_God_Medley-G.mp3",
+    "Easter 2025/First Song.md",
+    "All Things Our God Paid.md",
+    "Christmas 2024/Angels (Eve Eve Overture).md",
+    "Christmas 2024/Hark the Harald Eagle & Child.md",
+    "Media Note - Goodbye Yesterday Easter Intro-E.md",
+    "Easter 2025",
+    "Christmas 2024/O Holy Night - Kings.md",
+    "Christmas 2024/O Come - His Name Shall Be.md",
+    "Christmas 2024/Joyful Joyful.md",
+    "Christmas 2024/The Joy - Joy To The World.md",
+    "Christmas 2024/Set List.md",
     "Hark The Harald Eagle & Child.md",
     "Media",
     "New folder",
