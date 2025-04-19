@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ab53d2ec54b3020",
+            "id": "5de9f1f69704e44f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,10 +29,40 @@
               "state": {
                 "file": "Easter 2025/Trust In God Medley.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Trust In God Medley"
+            }
+          }
+        ]
+      },
+      {
+        "id": "759e2d6e0aeed67b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eff515f3c63bacff",
+            "type": "leaf",
+            "state": {
+              "type": "mx-file-audio",
+              "state": {
+                "file": "Easter 2025/All_Things_Our_God_Paid.m4a"
+              },
+              "icon": "file-audio",
+              "title": "All_Things_Our_God_Paid"
+            }
+          },
+          {
+            "id": "73a7f5dd0bea1af8",
+            "type": "leaf",
+            "state": {
+              "type": "mx-file-audio",
+              "state": {
+                "file": "Easter 2025/Trust_In_God_Medley-G.mp3"
+              },
+              "icon": "file-audio",
+              "title": "Trust_In_God_Medley-G"
             }
           }
         ],
@@ -191,10 +221,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Easter 2025/Trust In God Medley.md"
+                "file": "Easter 2025/All Things Our God Paid.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Trust In God Medley"
+              "title": "File properties for All Things Our God Paid"
             }
           }
         ],
@@ -220,12 +250,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9b17d69c8293fe8e",
+  "active": "5de9f1f69704e44f",
   "lastOpenFiles": [
-    "Easter 2025/All Things Our God Paid.md",
-    "Easter 2025/All_Things_Our_God_Paid.m4a",
     "Easter 2025/Trust In God Medley.md",
     "Easter 2025/Trust_In_God_Medley-G.mp3",
+    "Easter 2025/All Things Our God Paid.md",
+    "Easter 2025/All_Things_Our_God_Paid.m4a",
+    "Easter 2025/Goodbye Yesterday.md",
+    "Easter 2025/Goodbye_Yesterday_Easter_Intro-E.mp3",
+    "Easter 2025/Untitled",
     "Easter 2025/First Song.md",
     "All Things Our God Paid.md",
     "Christmas 2024/Angels (Eve Eve Overture).md",
